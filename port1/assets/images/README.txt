@@ -1,0 +1,1 @@
+Put your portrait here as bhanu.jpg. Put project thumbnails here and update the matching .thumb-one through .thumb-six CSS rules in css/style.css.
