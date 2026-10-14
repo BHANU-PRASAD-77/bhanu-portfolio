@@ -1,0 +1,1 @@
+Put custom icons here if you add any. The current design uses lightweight text symbols and CSS so it needs no icon library.
